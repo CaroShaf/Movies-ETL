@@ -5,7 +5,7 @@ to use. To do this, the ETL process was completed: extract the Wikipedia and Kag
 together, and load the cleaned dataset into a SQL database.
 
 <p align="center">
-<a href="https://github.com/CaroShaf/Movies-ETL> <img src="Resources/extract-transform-load.png" alt="ETL graphic" width="700" height="400"> </a>
+<a href=https://github.com/CaroShaf/Movies-ETL> <img src="Resources/extract-transform-load.png" alt="ETL graphic" width="700" height="400"> </a>
 
 Resources used to complete ETL:  Python, Pandas, Numpy, Jupyter Notebook, SQL, pgAdmin 4.4, PostgreSQL, wikipedia.movies.json, movies_metadata.csv, ratings.csv, git-lfs.exe
 
