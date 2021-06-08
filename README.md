@@ -4,10 +4,8 @@ For this project, data from both Wikipedia (web scraping) and Kaggle (csvs) were
 to use. To do this, the ETL process was completed: extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them 
 together, and load the cleaned dataset into a SQL database.  This process is shown in the image below.
 
-  <p align="center">
-  <a href="https://github.com/CaroShaf/Movies-ETL>
-    <img src="Resources/extract-transform-load.png">
-  </a>
+<p align="center">
+<a href="https://github.com/CaroShaf/Movies-ETL><img src="Resources/extract-transform-load.png"></a>
 
 Resources used to complete ETL:  Python, Pandas, Numpy, Jupyter Notebook, SQL, pgAdmin 4.4, PostgreSQL, wikipedia.movies.json, movies_metadata.csv, ratings.csv, git-lfs.exe
 
