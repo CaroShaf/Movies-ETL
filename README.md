@@ -6,7 +6,7 @@ together, and load the cleaned dataset into a SQL database.  This process is sho
 
   <p align="center">
   <a href="https://github.com/CaroShaf/Movies-ETL>
-    <img src="Resources/extract-transform-load.png" alt="EQ satellite" width="700" height="400">
+    <img src="/Resources/extract-transform-load.png" alt="EQ satellite" width="700" height="400">
   </a>
 
 Resources used to complete ETL:  Python, Pandas, Numpy, Jupyter Notebook, SQL, pgAdmin 4.4, PostgreSQL, wikipedia.movies.json, movies_metadata.csv, ratings.csv, git-lfs.exe
